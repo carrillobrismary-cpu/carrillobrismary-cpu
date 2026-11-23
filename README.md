@@ -1,4 +1,4 @@
-### Bienvenido, soy Brismary Carrillo ❤️
+### Hola sean bienvenidos, soy Brismary Carrillo ❤️
 
 Estudiante de licenciatura en informática en la **Universidad de Oriente (U.D.O)**. Desarrolladora de software, enfocada en crear aplicaciones web y sistemas embebidos IoT.
 
